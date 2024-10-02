@@ -1,6 +1,6 @@
 # stopwatch_provider
 
-A new Flutter project.
+Project UTS Celtha Missella H1101221015
 
 ## Getting Started
 
